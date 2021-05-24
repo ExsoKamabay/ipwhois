@@ -8,7 +8,7 @@
         pip install kamabay-ipwhois
         #linux & termux
         pip3 install kamabay-ipwhois
-        """
+        
 
 ``URL`` `https://pypi.org/project/kamabay-ipwhois/`_
 
