@@ -1,2 +1,0 @@
-# ipwhois
-ip information gathering
