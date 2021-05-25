@@ -8,6 +8,10 @@
         pip install kamabay-ipwhois
         #linux & termux
         pip3 install kamabay-ipwhois
+        # OR
+        $ git clone https://github.com/ExsoKamabay/ipwhois 
+        $ cd ipwhois && pip3 install requests
+        $ clear && python3 main.py
         
 
 ``URL`` `https://pypi.org/project/kamabay-ipwhois/`_
